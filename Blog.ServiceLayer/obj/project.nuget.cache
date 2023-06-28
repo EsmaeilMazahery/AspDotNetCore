@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l9Lm10duuVHGCIUNwsjewe+iBrJt0V+RdLdRnd60kiZwjbjcmKSg9YXYlMd3XA+XCTN7Y6JEjsJUriS9cccjhA==",
+  "success": true,
+  "projectFilePath": "/Users/mazahery/projects/MyBlogProjects/Blog/Blog.ServiceLayer/Blog.ServiceLayer.csproj",
+  "expectedPackageFiles": [
+    "/Users/mazahery/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/mazahery/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
